@@ -35,4 +35,4 @@ uboot Linux shell arm。喜欢参与一些开源项目的讨论。
 ![HHDSG-LCH's github stats](https://github-readme-stats.vercel.app/api?username=HHDSG-LCH&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHDSG-LCH&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HHDSG-LCH&layout=compact&langs_count=6)
